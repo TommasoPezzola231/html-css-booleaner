@@ -38,7 +38,37 @@ span {
     margin-bottom: 25px;
 }
 
-ul {
+.spazio {
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+thead {
+    background-color: rgb(78, 160, 255);
+    color: white;
+}
+
+.cella1 {
+    width: 25%;
+}
+
+.cella2 {
+    width: 25%;
+}
+
+.cella3 {
+    width: 50%;
+}
+
+tr {
+    background-color: rgba(78, 160, 255, 0.3);
+}
+
+.bianco {
+    background-color: white;
 }
