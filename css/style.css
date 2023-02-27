@@ -11,6 +11,29 @@ header {
 #logo{
     width: 250px;
     height: 150px;
-    margin-left: 50px;
+    margin-left: 250px;
     padding-top: 50px;
+}
+
+.contenitore {
+    width: 1025px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.sottotitolo {
+    color: lightgray;
+}
+
+span {
+    color: lightskyblue;
+}
+
+.foto {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
